@@ -1,6 +1,7 @@
 export const Buttom = (props) =>{
     return( 
         <div>
-            <button>Leer Mas</button>
+            <button>{props.title}</button>
         </div>
     )
+}
