@@ -1,15 +1,11 @@
+<<<<<<< HEAD
 .App {
   text-align: center;
 }
 
 .App-main {
+=======
+body {
+>>>>>>> fc1eb62edf4025a17e1fee5d6c254afd46b6b271
   background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
-
