@@ -7,8 +7,6 @@ function App() {
       <main className="App-main">
           <Avatar userName="Roman Alberto" />
       </main>
-      <header className="App-header">
-      </header>
     </div>
   );
 }
