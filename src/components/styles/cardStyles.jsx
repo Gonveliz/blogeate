@@ -5,13 +5,18 @@ export const Card = styled.div`
     border-radius: 1rem;
     width: 98%;
     display: flex;
-    justify-content: center;
-    align-items:center;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
     .texto{
         width: 70%;
         h1{
-            color: blue;
+            text-align: start;
+            border-bottom: 2px solid black;
+            font-size: 1.5rem;
         }
-
+        p{
+            text-align: start;
+        }
     }
 `
