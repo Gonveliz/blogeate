@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <Buttom title='nombre del boton'/>
+      <Buttom title='LEER MAS'/>
       </header>
     </div>
   );
