@@ -1,10 +1,11 @@
 import { Buttom } from "./Buttom"
+import { ImgAv } from "./avimg"
 
 export const Avatar = (props) =>{
     return(
         <div className='Avatar'>
             <div>
-                <img src="" alt="aca va el avatar" />
+                <ImgAv src="https://images-ext-2.discordapp.net/external/pHICwzLRZ9ZJDqhVTBEbXrfMIvdLeG4ix3OmWyCFiOg/%3Fimg%3D51/https/i.pravatar.cc/150" alt="aca va el avatar" />
             </div>
             <div className='texto'>
                 <h1>{props.userName}</h1>
