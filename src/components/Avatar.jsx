@@ -10,7 +10,7 @@ export const Avatar = (props) =>{
             </div>
             <div className='texto'>
                 <h1>{props.userName}</h1>
-                <span>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur aliquid exercitationem nulla, rem laborum odio perspiciatis impedit nesciunt eligendi iusto mollitia corrupti delectus minima corporis aperiam quisquam quae deleniti error?</span>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur aliquid exercitationem nulla, rem laborum odio perspiciatis impedit nesciunt eligendi iusto mollitia corrupti delectus minima corporis aperiam quisquam quae deleniti error?</p>
                 <Buttom title="LEER MAS"/>
             </div>
         </Card>
