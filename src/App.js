@@ -1,6 +1,5 @@
 import './App.css';
 import { Avatar } from './components/Avatar';
-import { Buttom } from './components/Buttom.jsx'
 
 function App() {
   return (
@@ -9,7 +8,6 @@ function App() {
           <Avatar userName="Roman Alberto" />
       </main>
       <header className="App-header">
-      <Buttom title='LEER MAS'/>
       </header>
     </div>
   );
