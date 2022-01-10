@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 export const ImgRadius = styled.div`
-    width: 7rem;
+    width: 10rem;
     img{
         display: flex;
         justify-content: center;
